@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Optimization](https://img.shields.io/badge/Optimization-MILP-orange.svg)]()
-[![Solver](https://img.shields.io/badge/Solver-Gurobi%20%7C%20PuLP-red.svg)]()
+[![Solver](https://img.shields.io/badge/Solver-Gurobi-red.svg)]()
 
 > A Mixed-Integer Linear Programming (MILP) approach to solve the continuous-space Facility Layout Problem (FLP) for a restaurant, balancing maximum capacity with customer comfort.
 
